@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640817893 source:d:\iti\data structure\quelinked\main.c
+	<stdio.h>
+	<stdlib.h>
+

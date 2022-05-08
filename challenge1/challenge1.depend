@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640820937 source:d:\iti\data structure\challenge1\main.c
+	<stdio.h>
+	<stdlib.h>
+

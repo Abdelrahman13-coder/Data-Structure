@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640517300 source:d:\iti\data structure\stackarraybased\main.c
+	<stdio.h>
+	<stdlib.h>
+

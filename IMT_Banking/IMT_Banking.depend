@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652010609 source:d:\iti\data structure\imt_banking\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

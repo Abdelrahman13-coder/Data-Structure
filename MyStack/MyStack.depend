@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640515026 source:d:\iti\data structure\mystack\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
